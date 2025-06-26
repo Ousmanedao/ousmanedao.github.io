@@ -79,24 +79,30 @@ Development of the RUSH system in *Chlamydomonas*.
 
 ## Selected Publications
 
+
 1. **Dao et al. (2025)** – *Nature Communications*  
    The green algae CO₂ concentrating mechanism and photorespiration during low CO₂.  
    [doi:10.1038/s41467-025-60525-7](https://doi.org/10.1038/s41467-025-60525-7)
 
 2. **Dao et al. (2024)** – *Plant Physiology*  
-   Antagonistic roles of cyclic/pseudo-cyclic electron pathways under nitrogen deficiency.
+   Antagonistic roles of cyclic/pseudo-cyclic electron pathways under nitrogen deficiency.  
+   [doi:10.1093/plphys/kiae617](https://doi.org/10.1093/plphys/kiae617)
 
 3. **Peltier et al. (2024)** – *Plant Cell*  
-   Alternative electron pathways power green algal CO₂ capture. (5th author)
+   Alternative electron pathways power green algal CO₂ capture. (5th author)  
+   [doi:10.1093/plcell/koae143](https://doi.org/10.1093/plcell/koae143)
 
 4. **Burlacot et al. (2022)** – *Nature*  
-   Alternative photosynthesis pathways in the algal CCM. (2nd author)
+   Alternative photosynthesis pathways in the algal CO₂-concentrating mechanism. (2nd author)  
+   [doi:10.1038/s41586-022-04662-9](https://doi.org/10.1038/s41586-022-04662-9)
 
 5. **Dao et al. (2022)** – *Trends in Plant Science*  
-   Functions of malate shuttles in plants and algae.
+   Physiological functions of malate shuttles in plants and algae.  
+   [doi:10.1016/j.tplants.2021.11.007](https://doi.org/10.1016/j.tplants.2021.11.007)
 
 6. **Gissot et al. (2023)** – *Biotechnology Journal*  
-   SARS-CoV-2 protein expression in plant lipid droplets. (4th author)
+   SARS-CoV-2 protein expression in plant lipid droplets. (4th author)  
+   [doi:10.1002/biot.202300512](https://doi.org/10.1002/biot.202300512)
 
 ---
 
