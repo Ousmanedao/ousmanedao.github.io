@@ -69,11 +69,13 @@ Carbon storage and energy status in *Chlamydomonas reinhardtii*.
 
 ### Research Engineer – INRA Versailles (France)  
 **01/2019 – 06/2019**  
-CRISPR/Cas9 to redirect lipid metabolism in *Camelina sativa*.
+CRISPR/Cas9 to redirect lipid metabolism in *Camelina sativa*.  
+*Supervisor: Dr. Jean-Denis Faure*
 
 ### Research Assistant – IBPC CNRS (France)  
 **04/2018 – 08/2018**  
-Development of the RUSH system in *Chlamydomonas*.
+Development of the RUSH system in *Chlamydomonas*.  
+*Supervisor: Dr. Pierre Crozet*
 
 ---
 
