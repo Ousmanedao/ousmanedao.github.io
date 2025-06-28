@@ -1,3 +1,37 @@
+title: "Ousmane Dao"
+email: ousmanedao17@yahoo.fr
+description: >-
+  Postdoctoral researcher in plant biology working on the resilience of photosynthetic organisms at the University of York.
+
+baseurl: "" # Leave empty for GitHub Pages root
+url: "https://ousmanedao.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-include-cache
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Collections for custom pages
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/
+
+# Author details (used on homepage & sidebar)
 author:
   name: Ousmane Dao
   email: ousmanedao17@yahoo.fr
@@ -18,8 +52,11 @@ author:
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Ousmane-Dao"
 
-      collections:
-  publications:
-    output: true
-    permalink: /publication/:path/
+# Permalinks for blog and posts
+permalink: pretty
 
+# Optional: site logo (place logo file in /images)
+# logo: "/images/ousmanedao.jpg"
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
