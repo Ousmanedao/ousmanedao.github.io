@@ -17,3 +17,9 @@ author:
     - label: "ResearchGate"
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Ousmane-Dao"
+
+      collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
+
