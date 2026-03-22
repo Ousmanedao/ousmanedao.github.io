@@ -15,6 +15,14 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
 
+header_pages:
+  - index.md        # Home / About
+  - publications.md
+  - cv.md
+  - methods.md
+  - conferences.md
+  - awards.md
+
 # Pagination
 paginate: 10
 paginate_path: "/blog/page:num/"
@@ -52,18 +60,9 @@ author:
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Ousmane-Dao"
 
-# Permalinks for blog and posts
-permalink: pretty
-header_pages:
-  - about.md
-  - publications.md
-  - cv.md
-  - methods.md
-  - conferences.md
-  - awards.md
 
 # Optional: site logo (place logo file in /images)
-# logo: "/images/ousmanedao.jpg"
+# logo: "/images/Ousmanedao1.jpg"
 
 # Google Analytics (optional)
 # google_analytics: UA-XXXXXXXXX-X
