@@ -3,7 +3,7 @@ layout: home
 title: Dr. Ousmane Dao
 subtitle: Postdoctoral Researcher in Plant Biology
 ---
-<img src="images/Ousmanedao1.jpg" alt="Dr. Ousmane Dao" style="width: 200px; border-radius: 200%; margin-bottom: 100px;" />
+<img src="images/Ousmanedao1.jpg" alt="Dr. Ousmane Dao" style="width: 220px; border-radius: 200%; margin-bottom: 20px;" />
 
 I am a **Royal Society Research Fellow** in the [Mackinder Lab](https://mackinderlab.weebly.com/), investigating the resilience of photosynthetic organisms to environmental challenges. My research focuses on understanding how microalgae adapt to oxygen-rich environments, with a particular emphasis on **photorespiration**. Using an integrative approach that combines **physiology, molecular biology, genetics, and biochemistry**, I aim to uncover the mechanisms that allow these organisms to optimize photosynthetic efficiency under fluctuating environmental conditions.  
 
