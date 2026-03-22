@@ -4,7 +4,7 @@ title: Dr. Ousmane Dao
 subtitle: Postdoctoral Researcher in Plant Biology
 ---
 
-<img src="images/Ousmanedao.jpg" alt="Dr. Ousmane Dao" style="width: 200px; border-radius: 100%; margin-bottom: 50px;" />
+<img src="images/Ousmanedao.jpg" alt="Dr. Ousmane Dao" style="width: 100px; border-radius: 100%; margin-bottom: 50px;" />
 
 I am a **postdoctoral researcher in plant biology** in the [Mackinder Lab](https://mackinderlab.weebly.com/), interested in the resilience of photosynthetic organisms to environmental variations. My research focuses on the adaptive mechanisms of the green microalga *Chlamydomonas reinhardtii*, using an integrative approach that combines **physiology, molecular biology, genetics, and biochemistry**.
 
