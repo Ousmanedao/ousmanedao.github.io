@@ -14,37 +14,19 @@ I have authored publications in leading journals including **Nature**, **Nature 
 
 ---
 
-## Publications
-
-### Journal Articles
+## Key Publications
 
 - **O. Dao et al.**, *Nature Communications*, 2025.  
   https://doi.org/10.1038/s41467-025-60525-7  
 
 - **O. Dao et al.**, *Plant Physiology*, 2024.  
-  https://doi.org/10.1093/plphys/kiae617  
-
-- **O. Dao et al.**, *The Plant Cell*, 2024.  
-  https://doi.org/10.1093/plcell/koae143  
-
-- **O. Dao et al.**, *Biotechnology Journal*, 2023.  
-  https://doi.org/10.1002/biot.202300512  
-
+  https://doi.org/10.1093/plphys/kiae617    
+  
+- **A. Burlacot, O. Dao et al.**, *Nature*, 2022.  
+  https://doi.org/10.1038/s41586-022-04662-9
+  
 - **O. Dao et al.**, *Trends in Plant Science*, 2021.  
-  https://doi.org/10.1016/j.tplants.2021.11.007  
-
-- **O. Dao et al.**, *Trends in Plant Science*, 2025.  
-  https://doi.org/10.1016/j.tplants.2025.11.016  
-
-- **O. Dao et al.**, *Nature*, 2022.  
-  https://doi.org/10.1038/s41586-022-04662-9  
-
-- **O. Dao et al.**, *Médecine/Sciences*, 2018.  
-  https://doi.org/10.1051/medsci/2018304  
+  https://doi.org/10.1016/j.tplants.2021.11.007    
 
 ---
 
-### Preprints
-
-- **O. Dao et al.**, *bioRxiv*, 2025.  
-  https://doi.org/10.1101/2025.11.18.689020  
