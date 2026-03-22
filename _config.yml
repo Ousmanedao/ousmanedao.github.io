@@ -54,6 +54,11 @@ author:
 
 # Permalinks for blog and posts
 permalink: pretty
+header_pages:
+  - publications.md
+  - cv.md
+  - conferences.md
+  - methods.md
 
 # Optional: site logo (place logo file in /images)
 # logo: "/images/ousmanedao.jpg"
