@@ -6,7 +6,9 @@ subtitle: Postdoctoral Researcher in Plant Biology
 
 <img src="images/Ousmanedao.jpg" alt="Dr. Ousmane Dao" style="width: 100px; border-radius: 100%; margin-bottom: 50px;" />
 
-I am a **postdoctoral researcher in plant biology** in the [Mackinder Lab](https://mackinderlab.weebly.com/), interested in the resilience of photosynthetic organisms to environmental variations. My research focuses on the adaptive mechanisms of the green microalga *Chlamydomonas reinhardtii*, using an integrative approach that combines **physiology, molecular biology, genetics, and biochemistry**.
+I am a **Royal Society Research Fellow** in the [Mackinder Lab](https://mackinderlab.weebly.com/), investigating the resilience of photosynthetic organisms to environmental challenges. My research focuses on understanding how microalgae adapt to oxygen-rich environments, with a particular emphasis on **photorespiration**. Using an integrative approach that combines **physiology, molecular biology, genetics, and biochemistry**, I aim to uncover the mechanisms that allow these organisms to optimize photosynthetic efficiency under fluctuating environmental conditions.  
+
+Learn more about my [Royal Society Career Development Fellowship](https://royalsociety.org/news/2025/10/career-development-fellowship-cohort-2/)..
 
 I have authored publications in leading journals including **Nature**, **Nature Communications**, **Plant Physiology**, and others, and I am recognized for my expertise in **algal physiology**. My work has been honored with **several scientific awards**.
 
