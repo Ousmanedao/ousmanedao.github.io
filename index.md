@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ousmane Dao
+title: Dr. Ousmane Dao
 subtitle: Postdoctoral Researcher in Plant Biology
 ---
 
