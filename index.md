@@ -5,7 +5,7 @@ subtitle: Postdoctoral Researcher in Plant Biology
 ---
 
 <img 
-  src="images/Ousmanedao.jpg" 
+  src="images/Ousmanedao1.jpg" 
   alt="Dr. Ousmane Dao" 
   style="
     width: 180px; 
